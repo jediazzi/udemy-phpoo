@@ -1,6 +1,13 @@
 {
-  "name": "Start on Heroku: PHP",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
-  "addons": []
+  "name": "Teste heroku",
+  "description": "Teste config Heroku",
+  "author": [
+    {
+      "name": "Jefferson Diazzi",
+      "email": "jefferson_diazzi@hotmail.com"
+    }
+  ],
+  "require": {
+        "php": ">=5.5"
+    }
 }
