@@ -1,0 +1,13 @@
+{
+  "name": "Teste heroku",
+  "description": "Teste config Heroku",
+  "author": [
+    {
+      "name": "Jefferson Diazzi",
+      "email": "jefferson_diazzi@hotmail.com"
+    }
+  ],
+  "require": {
+        "php": ">=5.5"
+    }
+}
